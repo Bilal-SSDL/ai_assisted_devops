@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-THRESHOLD=60
+THRESHOLD=86
 MODE="${1:-}"
 
 usage() {
